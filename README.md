@@ -1,4 +1,8 @@
 ### Hi there 👋
+The main problems I'm interested in are:
+- getting humans to better understand AI
+- how to better align AI to humans
+- 
 [chufeiluo.github.io](https://chufeiluo.github.io)
 
 <!--
