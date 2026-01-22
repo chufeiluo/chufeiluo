@@ -3,7 +3,8 @@ The main problems I'm interested in are:
 - getting humans to better understand AI
 - how to better align AI to humans
 
-[chufeiluo.github.io](https://chufeiluo.github.io)
+[main site](https://chufeiluo.github.io)
+[my notes](https://chufeiluo.github.io/notes)
 
 <!--
 **chufeiluo/chufeiluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
