@@ -1,7 +1,7 @@
 ### Hi there 👋
 The main problems I'm interested in are:
 - getting humans to better understand AI
-- how to leverage humans to better guide AI
+- how to better guide AI in subjective tasks
 
 [main site](https://chufeiluo.github.io)
 [my notes](https://chufeiluo.github.io/notes)
